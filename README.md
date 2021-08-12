@@ -45,3 +45,6 @@ Assert.assertEquals (6, getMaxProfit(stockPrices)); // returns 6 (buy at $5 sell
 1.	Implement a solution in Java, modify the provided application as required.
 2.	Prove it works by creating unit tests that test the possible scenarios that the numbers could present.
 3.	Include any comments that you think will be relevant to provide any context around the approach taken / solution developed.
+
+
+![example workflow](https://github.com/anekdy/coding-challenge/actions/workflows/maven-ci.yml/badge.svg)
