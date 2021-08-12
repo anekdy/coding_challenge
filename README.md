@@ -47,4 +47,4 @@ Assert.assertEquals (6, getMaxProfit(stockPrices)); // returns 6 (buy at $5 sell
 3.	Include any comments that you think will be relevant to provide any context around the approach taken / solution developed.
 
 
-![example workflow](https://github.com/anekdy/coding-challenge/actions/workflows/maven-ci.yml/badge.svg)
+![example workflow](https://github.com/anekdy/coding_challenge/actions/workflows/maven-ci.yml/badge.svg)
